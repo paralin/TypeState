@@ -97,3 +97,5 @@ declare module TypeState {
         private _transitionTo(state);
     }
 }
+
+export {TypeState as typestate};
